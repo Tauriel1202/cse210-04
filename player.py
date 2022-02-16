@@ -11,7 +11,7 @@ class Player:
         self._font_size = 15
         self._position = Point(0, 0)
         self._velocity = Point(0, 0)
-        self._y_axis = 0 #the playes moves on X only
+        self._y_axis = 585 #the playes moves on X only
     
 
     def get_font_size(self):
