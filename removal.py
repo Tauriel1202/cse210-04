@@ -1,4 +1,4 @@
-from player import Player
+from elements.player import Player
 
 class Removal:
   #Removes objects when touched
